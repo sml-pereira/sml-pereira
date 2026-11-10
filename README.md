@@ -1,16 +1,51 @@
-## Hi there 👋
+## Samuel Pereira
 
-<!--
-**sml-pereira/sml-pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Music theorist and computational musicologist, curious about what musical
+structures reveal once they are translated into mathematics.
 
-Here are some ideas to get you started:
+I completed my PhD in Digital Media at the University of Porto in 2026 and now
+teach as an Invited Assistant Professor at the University of Coimbra, across
+master's programmes in Computer Music and Sound Design and in Art Studies. I
+also serve as Reviews Editor for the *Revista Portuguesa de Musicologia*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I began as a composer, armed with a pencil and an eraser. The pencil has since
+given way to Python; the deadlines remain equally aspirational.
+
+### What I work on
+
+Most of my research develops the **Fourier Qualia Space**, a framework that
+applies the discrete Fourier transform to pitch-class sets in order to model
+harmonic quality, ambiguity and hierarchy. It reaches across four centuries of
+Western art music, with a particular focus on post-tonal repertoire:
+Schoenberg, Debussy, Webern, Bartók.
+
+### Selected publications
+
+- **Qualia Motion in Fourier Space: Formalizing Linear, Nondirected and
+  Contrapuntal Ambiguity in Schoenberg's Op. 19, No. 1** — *Music Theory
+  Spectrum* 48(1), 2025.
+  [doi:10.1093/mts/mtaf016](https://doi.org/10.1093/mts/mtaf016)
+- **Fourier Qualia Wavescapes: Hierarchical Analyses of Set-Class Quality and
+  Ambiguity** — *Mathematics and Computation in Music*, Springer, 2024.
+  [doi:10.1007/978-3-031-60638-0_25](https://doi.org/10.1007/978-3-031-60638-0_25)
+- **FluidHarmony: Defining an Equal-Tempered and Hierarchical Harmonic Lexicon
+  in the Fourier Space** — *Journal of New Music Research* 51(2–3), 2022.
+  [doi:10.1080/09298215.2023.2202641](https://doi.org/10.1080/09298215.2023.2202641)
+  — open access
+
+### Code
+
+| Repository | What it does |
+| --- | --- |
+| [phd-fqs](https://github.com/sml-pereira/phd-fqs) | Code and datasets from my PhD thesis on pitch-class set analysis using the DFT and the Fourier Qualia Space |
+| [qualia-syntax](https://github.com/sml-pereira/qualia-syntax) | Supplementary material for *Statistically Modelling Qualia Syntax Through Fourier Space* |
+| [spherical-phase-space](https://github.com/sml-pereira/spherical-phase-space) | 3D spherical visualisation of atonal harmonic trajectories (Processing + Python) |
+| [timbric-counterpoint](https://github.com/sml-pereira/timbric-counterpoint) | A Pure Data patch rendering Bach's Three-part Invention No. 9 in F minor as a three-voice timbric counterpoint |
+| [word-blackjack](https://github.com/sml-pereira/word-blackjack) | A terminal-based multiplayer word game — like Blackjack, but with words |
+
+### Elsewhere
+
+[Website](https://sml-pereira.github.io) ·
+[ORCID](https://orcid.org/0000-0003-2866-1081) ·
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=XiZDQLMAAAAJ) ·
+[CIÊNCIAVITAE](https://www.cienciavitae.pt/portal/AC1E-D08A-2722)
