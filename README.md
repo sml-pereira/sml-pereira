@@ -1,12 +1,14 @@
 ## Samuel Pereira
 
-Music theorist and computational musicologist, curious about what musical
+I'm a music theorist and computational musicologist, curious about what musical
 structures reveal once they are translated into mathematics.
 
 I completed my PhD in Digital Media at the University of Porto in 2026 and now
 teach as an Invited Assistant Professor at the University of Coimbra, across
-master's programmes in Computer Music and Sound Design and in Art Studies. I
-also serve as Reviews Editor for the *Revista Portuguesa de Musicologia*.
+master's programmes in Computer Music and Sound Design and in Art Studies. I am
+a member of the Sound and Music Computing Lab at
+[INESC TEC](https://www.inesctec.pt), and serve as Reviews Editor for the
+*Revista Portuguesa de Musicologia*.
 
 I began as a composer, armed with a pencil and an eraser. The pencil has since
 given way to Python; the deadlines remain equally aspirational.
@@ -23,7 +25,7 @@ Schoenberg, Debussy, Webern, Bartók.
 
 - **Qualia Motion in Fourier Space: Formalizing Linear, Nondirected and
   Contrapuntal Ambiguity in Schoenberg's Op. 19, No. 1** — *Music Theory
-  Spectrum* 48(1), 2025.
+  Spectrum* 48(1): 126–51, 2026.
   [doi:10.1093/mts/mtaf016](https://doi.org/10.1093/mts/mtaf016)
 - **Fourier Qualia Wavescapes: Hierarchical Analyses of Set-Class Quality and
   Ambiguity** — *Mathematics and Computation in Music*, Springer, 2024.
