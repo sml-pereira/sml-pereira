@@ -10,16 +10,11 @@ a member of the Sound and Music Computing Lab at
 [INESC TEC](https://www.inesctec.pt), and serve as Reviews Editor for the
 *Revista Portuguesa de Musicologia*.
 
-I began as a composer, armed with a pencil and an eraser. The pencil has since
-given way to Python; the deadlines remain equally aspirational.
-
 ### What I work on
 
 Most of my research develops the **Fourier Qualia Space**, a framework that
 applies the discrete Fourier transform to pitch-class sets in order to model
-harmonic quality, ambiguity and hierarchy. It reaches across four centuries of
-Western art music, with a particular focus on post-tonal repertoire:
-Schoenberg, Debussy, Webern, Bartók.
+harmonic quality, ambiguity and hierarchy on post-tonal repertoire from Debussy, Bartók, Stravinsky, Schoenberg, and Webern.
 
 ### Selected publications
 
