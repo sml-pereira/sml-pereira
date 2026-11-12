@@ -30,16 +30,6 @@ harmonic quality, ambiguity and hierarchy on post-tonal repertoire from Debussy,
   [doi:10.1080/09298215.2023.2202641](https://doi.org/10.1080/09298215.2023.2202641)
   — open access
 
-### Code
-
-| Repository | What it does |
-| --- | --- |
-| [phd-fqs](https://github.com/sml-pereira/phd-fqs) | Code and datasets from my PhD thesis on pitch-class set analysis using the DFT and the Fourier Qualia Space |
-| [qualia-syntax](https://github.com/sml-pereira/qualia-syntax) | Supplementary material for *Statistically Modelling Qualia Syntax Through Fourier Space* |
-| [spherical-phase-space](https://github.com/sml-pereira/spherical-phase-space) | 3D spherical visualisation of atonal harmonic trajectories (Processing + Python) |
-| [timbric-counterpoint](https://github.com/sml-pereira/timbric-counterpoint) | A Pure Data patch rendering Bach's Three-part Invention No. 9 in F minor as a three-voice timbric counterpoint |
-| [word-blackjack](https://github.com/sml-pereira/word-blackjack) | A terminal-based multiplayer word game — like Blackjack, but with words |
-
 ### Elsewhere
 
 [Website](https://sml-pereira.github.io) ·
